@@ -6,10 +6,11 @@
 
 ###Contact information
 
-**Location**: Kitchener, ON, Canada
-**Phone**: 226 5056638
-**E-mail**: <ekaterinan.egorova@gmail.com>
-**Telegram**: @katyasprz
+**Location:** Kitchener, ON, Canada
+**Phone:** 226 5056638
+**E-mail:** <ekaterinan.egorova@gmail.com>
+**Telegram:** @katyasprz
+**Discord:** KateS(@EkaterinaEg)
 
 ###About me:
 I graduated from university with a degree in Finance in Saint-Petersburg. I had been working in finance department for more than 10 years before I decided to try something different.
