@@ -7,9 +7,9 @@
 ### Contact information
 
 **Location:** Kitchener, ON, Canada
-**Phone:** 226 5056638
-**E-mail:** <ekaterinan.egorova@gmail.com>
-**Telegram:** @katyasprz
+**Phone:** 226 5056638  
+**E-mail:** <ekaterinan.egorova@gmail.com>  
+**Telegram:** @katyasprz  
 **Discord:** KateS(@EkaterinaEg)
 
 ### About me:
@@ -53,7 +53,7 @@ return newArr.join(" ");
 
 ## Courses:
 
-- [x] [HTML academy](https://htmlacademy.ru/) and Marathons of HTML Academy
+- [x] [HTML academy](https://htmlacademy.ru/) tasks and Marathons of HTML Academy
       ![HTML_cert](img/HTML_acad.jpg)
 - [x] [Coursera](https://www.coursera.org/):
 
