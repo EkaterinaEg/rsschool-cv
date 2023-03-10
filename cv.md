@@ -52,6 +52,7 @@ return newArr.join(" ");
 ##Courses:
 
 - [x] [HTML academy](https://htmlacademy.ru/) and Marathons of HTML Academy
+      ![HTML_cert](/img/HTML_acad.jpg)
 
 - [x] [Coursera](https://www.coursera.org/):
 
