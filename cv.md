@@ -77,5 +77,7 @@ return newArr.join(" ");
 ## Languages:
 
 - **English** - B2 ([Celpip](https://www.celpip.ca/) certificate)
+
   ![CELPIP](img/Celpip.png)
+
 - **Russian** - Native
