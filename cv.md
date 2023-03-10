@@ -70,6 +70,12 @@ The Complete JavaScript Course 2023 (in progress)
 - [ ] [RS School](https://rs.school/):
   - RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
 
+##Portfolio:
+
+- [Project 1](https://ekaterinaeg.github.io/Project_1/)
+- [Project 2](https://ekaterinaeg.github.io/Project_2/)
+- [Project 3](https://ekaterinaeg.github.io/Project_4/)
+
 ##Languages:
 
 - **English** - B2 ([Celpip](https://www.celpip.ca/) certificate)
