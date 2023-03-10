@@ -16,7 +16,7 @@
 
 I graduated from university with a degree in Finance in Saint-Petersburg. I had been working in finance department for more than 10 years before I decided to try something different.
 
-I was always keen on automation and creation useful features to improve routine tasks more than calculating cost and profit. Thus, I made a desicion to follow my interests and find myself in IT. I finished some courses of manual testing and business intelligence. However, it seemed to be as boring as finance. So I started learning HTML/CSS. And finally, I found that Web development is the most attractive and interesting to me. I like it since the beginning and still I am fond of front development.
+I was always keen on automation and creation useful features to improve routine tasks more than calculating cost and profit. Thus, I made a desicion to follow my interests and find myself in IT. I finished some courses of manual testing and business intelligence. However, it seemed to be as boring as finance. So I started learning HTML/CSS. And finally, I found that Web development is the most attractive and interesting to me. I like it since the beginning and still I am fond of Front development.
 
 In 2022 I changed my life: new country, culture, language, people. Inspite of that I keep doing my best in learning Front-end and becoming a developer one day.
 
