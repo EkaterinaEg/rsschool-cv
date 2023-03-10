@@ -6,14 +6,10 @@
 
 ### Contact information
 
-** Location:** Kitchener, ON, Canada
-
+**Location:** Kitchener, ON, Canada
 **Phone:** 226 5056638
-
 **E-mail:** <ekaterinan.egorova@gmail.com>
-
 **Telegram:** @katyasprz
-
 **Discord:** KateS(@EkaterinaEg)
 
 ### About me:
@@ -59,7 +55,6 @@ return newArr.join(" ");
 
 - [x] [HTML academy](https://htmlacademy.ru/) and Marathons of HTML Academy
       ![HTML_cert](img/HTML_acad.jpg)
-
 - [x] [Coursera](https://www.coursera.org/):
 
   - Introduction to Front-End Development
@@ -68,11 +63,8 @@ return newArr.join(" ");
     ![Coursera-cert_1](img/Coursera_certificates.jpg)
 
 - [ ] [Udemy](https://www.udemy.com/):
-
-The Complete JavaScript Course 2023 (in progress)
-
+      The Complete JavaScript Course 2023 (in progress)
 - [ ] JavaScript Manual on [learnjavascript.ru](https://learn.javascript.ru/) (in progress)
-
 - [ ] [RS School](https://rs.school/):
   - RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
 
