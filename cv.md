@@ -1,18 +1,23 @@
-#**_Ekaterina Egorova_**
+# **_Ekaterina Egorova_**
 
-##**_Junior Frontend Developer_**
+## **_Junior Frontend Developer_**
 
 ---
 
-###Contact information
+### Contact information
 
-**Location:** Kitchener, ON, Canada
+** Location:** Kitchener, ON, Canada
+
 **Phone:** 226 5056638
+
 **E-mail:** <ekaterinan.egorova@gmail.com>
+
 **Telegram:** @katyasprz
+
 **Discord:** KateS(@EkaterinaEg)
 
-###About me:
+### About me:
+
 I graduated from university with a degree in Finance in Saint-Petersburg. I had been working in finance department for more than 10 years before I decided to try something different.
 
 I was always keen on automation and creation useful features to improve routine tasks more than calculating cost and profit. Thus, I made a desicion to follow my interests and find myself in IT. I finished some courses of manual testing and business intelligence. However, it seemed to be as boring as finance. So I started learning HTML/CSS. And finally, I found that Web development is the most attractive and interesting to me. I like it since the beginning and still I am fond of front development.
@@ -21,7 +26,7 @@ In 2022 I changed my life: new country, culture, language, people. Inspite of th
 
 So, overall I have been learning HTML/CSS and Java Script with multiple sourses for 2 years already with some short breaks. I was really excited when my friend told me about this course. I believe that the RS School will allows me to understand my level and improve my skills.
 
-##Skills and Proficiency:
+## Skills and Proficiency:
 
 - HTML5, CSS3
 - JavaScript Basics
@@ -29,7 +34,7 @@ So, overall I have been learning HTML/CSS and Java Script with multiple sourses 
 - VS Code
 - Adobe Photoshop, Figma
 
-##Code example from CODEWARS:
+## Code example from CODEWARS:
 
 **Task Name**: Your order, please (6 kya)
 
@@ -50,17 +55,17 @@ return newArr.join(" ");
 }
 ```
 
-##Courses:
+## Courses:
 
 - [x] [HTML academy](https://htmlacademy.ru/) and Marathons of HTML Academy
-      ![HTML_cert](/img/HTML_acad.jpg)
+      ![HTML_cert](img/HTML_acad.jpg)
 
 - [x] [Coursera](https://www.coursera.org/):
 
   - Introduction to Front-End Development
   - HTML and CSS in depth
   - Programming with JavaScript
-    ![Coursera-cert_1](/img/Coursera_certificates.jpg)
+    ![Coursera-cert_1](img/Coursera_certificates.jpg)
 
 - [ ] [Udemy](https://www.udemy.com/):
 
@@ -71,14 +76,14 @@ The Complete JavaScript Course 2023 (in progress)
 - [ ] [RS School](https://rs.school/):
   - RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
 
-##Portfolio:
+## Portfolio:
 
 - [Project 1](https://ekaterinaeg.github.io/Project_1/)
 - [Project 2](https://ekaterinaeg.github.io/Project_2/)
 - [Project 3](https://ekaterinaeg.github.io/Project_4/)
 
-##Languages:
+## Languages:
 
 - **English** - B2 ([Celpip](https://www.celpip.ca/) certificate)
-  ![CELPIP](/img/Celpip.png)
+  ![CELPIP](img/Celpip.png)
 - **Russian** - Native
